@@ -1,0 +1,22 @@
+ACUERDO DE LICENCIA DE USUARIO FINAL (EULA)
+
+Aplicación: Youtube Engine
+Versión: 1.0.0
+Desarrolladora: Sheila Valencia (https://www.sheilavalencia.dev)
+
+1. CONCESIÓN DE LICENCIA
+Sheila Valencia le otorga una licencia personal, gratuita, no exclusiva e intransferible para instalar y utilizar Youtube Engine en sus dispositivos.
+
+2. PROPIEDAD INTELECTUAL
+Youtube Engine y todos los derechos de autor relacionados, código fuente, diseño visual, logotipos y elementos gráficos son propiedad exclusiva de Sheila Valencia.
+
+3. RESTRICCIONES DE USO
+Usted acepta no:
+- Descompilar, realizar ingeniería inversa o intentar extraer el código fuente con fines comerciales sin autorización previa.
+- Redistribuir, vender, alquilar o sublicenciar este software como si fuera una creación propia.
+
+4. PRIVACIDAD Y PROCESAMIENTO LOCAL
+Youtube Engine no recopila, almacena ni transmite ningún dato personal, métricas de uso o historial de descargas a servidores externos. Todas las operaciones, conversiones y descargas multimedia se ejecutan localmente en el dispositivo del usuario y se comunican directamente con los servicios de YouTube a través de herramientas de código abierto.
+
+5. RENUNCIA DE GARANTÍAS
+El software se proporciona "tal cual" (as is), sin garantía de ningún tipo, expresa o implícita. La autora no se hace responsable de daños directos o indirectos derivados del uso o la imposibilidad de uso de este software.
